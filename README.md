@@ -5,7 +5,7 @@ by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 Bring Rotten Tomatoes ratings to Netflix movies
 - Join Netflix data and Rotten Tomatoes data by movie name & release year
 
-#### EXTRACT
+## EXTRACT
  - Data Sources found on Kaggle:
    - 
    - 
