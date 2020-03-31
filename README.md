@@ -13,10 +13,19 @@ Data Sources found on Kaggle:
 Both datasets were in CSV format
 
 ## TRANSFORM - What data cleaning/transformation was required?
- - Cleaning
- - Joining
- - Filtering
- - Aggregating
+- Cleaning
+  - Both datasets: drop all null values
+  - Netflix: kept all columns as is as Netflix data serves as parent dataset
+  - Rotten Tomatoes: exclude all columns except for rotten_tomatoes_link, movie_title, in_theaters_date, tomatometer_status, tomatometer_rating, audience_rating
+  
+- Joining
+  - Join datasets based on unique key concatenated by movie title and release year
+  
+- Filtering
+  - Filtered both datasets for movies specifically (excluded TV shows)
+  
+- Aggregating
+  - 
 
 ## LOAD
  - The type of final production database to load the data into (relational or non-relational).
