@@ -1,5 +1,4 @@
 # ETL Project Submission
--
 
 #### EXTRACT
  - Data Sources: (CSV)
