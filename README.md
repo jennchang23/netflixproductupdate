@@ -6,11 +6,11 @@ Bring Rotten Tomatoes ratings to Netflix movies
 - Join Netflix data and Rotten Tomatoes data by movie name & release year
 
 ## EXTRACT
-- Data Sources found on Kaggle:
-   - Netflix Movies and TV Shows by Shivam Bansal
-   - Rotten Tomatoes - Movies and Critics datasets by Stefano Leone
+Data Sources found on Kaggle:
+- Netflix Movies and TV Shows by Shivam Bansal
+- Rotten Tomatoes - Movies and Critics datasets by Stefano Leone
   
-  Both datasets were in CSV format
+Both datasets were in CSV format
 
 #### TRANSFORM - What data cleaning/transformation was required?
  - Cleaning
