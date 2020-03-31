@@ -1,7 +1,7 @@
 # ETL Project Submission
 by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 
-#### Project Overview
+## Project Overview
 Bring Rotten Tomatoes ratings to Netflix movies
 - Join Netflix data and Rotten Tomatoes data by movie name & release year
 
