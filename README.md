@@ -12,12 +12,12 @@ Data Sources found on Kaggle:
   
 Both datasets were in CSV format
 
-#### TRANSFORM - What data cleaning/transformation was required?
+## TRANSFORM - What data cleaning/transformation was required?
  - Cleaning
  - Joining
  - Filtering
  - Aggregating
 
-#### LOAD
+## LOAD
  - The type of final production database to load the data into (relational or non-relational).
  - The final table/database & why was this chosen?
