@@ -1,5 +1,9 @@
 # ETL Project Submission
 
+#### Project Overview
+Bring Rotten Tomatoes ratings to Netflix movies
+- Join Netflix data and Rotten Tomatoes data by movie name & release year
+
 #### EXTRACT
  - Data Sources: (CSV)
 
