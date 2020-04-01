@@ -28,5 +28,5 @@ Both datasets were in CSV format
   - 
 
 ## LOAD
- - The type of final production database to load the data into (relational or non-relational).
- - The final table/database & why was this chosen?
+ - Load the final table to Postgres SQL as a relational database would be a better fit.
+ 
