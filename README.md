@@ -23,9 +23,6 @@ Both datasets were in CSV format
   
 - Filtering
   - Filtered both datasets for movies specifically (excluded TV shows)
-  
-- Aggregating
-  - 
 
 ## LOAD
  - Load the final table to Postgres SQL as a relational database would be a better fit.
