@@ -38,5 +38,5 @@ Both datasets were in CSV format
    
 
 ## LOAD
- - Load the final table to Postgres SQL as a relational database would be a better fit.
+ - Load the final table to a relational database - Postgres SQL as we don't have any non-relational data.
  
