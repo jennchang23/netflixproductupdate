@@ -4,6 +4,7 @@ by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 ## Project Overview
 
 ![images/netflix.png](images/netflix.png)
+![images/rotten_tomatoes.jpg](images/rotten_tomatoes.jpg)
 
 Bring Rotten Tomatoes ratings to Netflix movies
 - Join Netflix data and Rotten Tomatoes data by movie name & release year
