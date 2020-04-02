@@ -3,7 +3,10 @@ by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 
 ## Project Overview
 
-![images/netflix.png](images/netflix.png)
+<p align="center">
+  <img width="460" height="300" src=![images/netflix.png](images/netflix.png)">
+</p>
+
   ![images/rotten_tomatoes.jpg](images/rotten_tomatoes.jpg)
 
 Bring Rotten Tomatoes ratings to Netflix movies
