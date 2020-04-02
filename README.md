@@ -6,6 +6,7 @@ by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 <p align="center">
   <img width="460" height="300" src="images/netflix.png">
 </p>
+x
 <p align="center">
   <img width="300" height="75" src="images/rotten_tomatoes.jpg">
 </p>
