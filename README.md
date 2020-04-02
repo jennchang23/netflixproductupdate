@@ -25,6 +25,7 @@ Both datasets were in CSV format
   - Both datasets: drop all null values
   - Netflix: kept all columns as is as Netflix data serves as parent dataset
   - Rotten Tomatoes: exclude all columns except for rotten_tomatoes_link, movie_title, in_theaters_date, tomatometer_status, tomatometer_rating, audience_rating
+   - Filtered both datasets for movies specifically (excluded TV shows)
   
 - Joining
   - Join datasets based on unique key concatenated by movie title and release year
@@ -32,9 +33,7 @@ Both datasets were in CSV format
 <p align="center">
   <img width="800" height="550" src="images/Netflix_RT_ERD_Diagram.png">
 </p>
-  
-- Filtering
-  - Filtered both datasets for movies specifically (excluded TV shows)
+   
 
 ## LOAD
  - Load the final table to Postgres SQL as a relational database would be a better fit.
