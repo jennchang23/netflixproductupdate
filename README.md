@@ -2,6 +2,9 @@
 by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 
 ## Project Overview
+
+![images/netflix.png](images/netflix.png)
+
 Bring Rotten Tomatoes ratings to Netflix movies
 - Join Netflix data and Rotten Tomatoes data by movie name & release year
 
@@ -20,6 +23,8 @@ Both datasets were in CSV format
   
 - Joining
   - Join datasets based on unique key concatenated by movie title and release year
+  
+    ![ETL_ERD.png](ETL_ERD.png)
   
 - Filtering
   - Filtered both datasets for movies specifically (excluded TV shows)
