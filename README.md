@@ -30,7 +30,7 @@ Both datasets were in CSV format
    - Filtered both datasets for movies specifically (excluded TV shows)
   
 - Joining
-  - Join datasets based on unique key concatenated by movie title and release year
+  - Join datasets based on unique key concatenated by movie title and release year as these are the two columns that exist in both datasets and have a higher likelihood of being the same across both. Release year was included in case some movies are a remake of an original movie.
   
 <p align="center">
   <img width="800" height="550" src="images/Netflix_RT_ERD_Diagram_cropped.png">
