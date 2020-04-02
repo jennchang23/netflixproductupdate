@@ -8,7 +8,7 @@ by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 </p>
 
 <p align="center">
-  <img width="300" height="100" src="images/rotten_tomatoes.jpg">
+  <img width="300" height="75" src="images/rotten_tomatoes.jpg">
 </p>
 
 Bring Rotten Tomatoes ratings to Netflix movies
