@@ -33,7 +33,7 @@ Both datasets were in CSV format
   - Join datasets based on unique key concatenated by movie title and release year
   
 <p align="center">
-  <img width="800" height="550" src="images/Netflix_RT_ERD_Diagram.png">
+  <img width="800" height="550" src="images/Netflix_RT_ERD_Diagram_cropped.png">
 </p>
    
 
