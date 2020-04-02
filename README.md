@@ -22,9 +22,9 @@ Both datasets were in CSV format
 
 ## TRANSFORM - What data cleaning/transformation was required?
 - Cleaning
-  - Both datasets: drop all null values
+  - Both datasets: replace all null values with "NA"
   - Netflix: kept all columns as is as Netflix data serves as parent dataset
-  - Netflix: renamed "listed_in" to "genre" and "title" to"movie_title" to be more explicit
+  - Netflix: renamed "listed_in" to "genre" and "title" to "movie_title" to be more explicit
   - Rotten Tomatoes: renamed "in_theaters_date" to "RT_release_date"
   - Rotten Tomatoes: exclude all columns except for rotten_tomatoes_link, movie_title, in_theaters_date, tomatometer_status, tomatometer_rating, audience_rating
    - Filtered both datasets for movies specifically (excluded TV shows)
