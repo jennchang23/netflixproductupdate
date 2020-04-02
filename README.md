@@ -4,7 +4,7 @@ by Samir Sundar, Jack Oremus, Jade Guo, Jennie Chang
 ## Project Overview
 
 <p align="center">
-  <img width="460" height="300" src=![images/netflix.png](images/netflix.png)">
+  <img width="460" height="300" src="images/netflix.png">
 </p>
 
   ![images/rotten_tomatoes.jpg](images/rotten_tomatoes.jpg)
