@@ -24,7 +24,7 @@ Both datasets were in CSV format
 - Joining
   - Join datasets based on unique key concatenated by movie title and release year
   
-    ![ETL_ERD.png](ETL_ERD.png)
+    ![images/Netflix_RT_ERD_Diagram.png](images/Netflix_RT_ERD_Diagram.png)
   
 - Filtering
   - Filtered both datasets for movies specifically (excluded TV shows)
